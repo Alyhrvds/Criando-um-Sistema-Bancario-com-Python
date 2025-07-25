@@ -13,7 +13,7 @@ Perfeito para treinar **lógica de programação**, **validações** e **intera�
 
 1. Clone o repositório:
 bash
-git clone https://github.com/seu-usuario/nome-do-repo.git
+git clone https://github.com/Alyhrvds/Criando-um-Sistema-Bancario-com-Python.git
 
 2. Navegue até o diretório:
 bash
