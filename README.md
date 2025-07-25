@@ -52,6 +52,10 @@ python sistemaBancario.py
 
 Feito com 💙 por Alice.
 
+## Inspiração
+Este projeto é baseado em um exercício proposto durante os estudos em Python, na plataforma DIO.
+A versão enviada aqui inclui melhorias, organização e mensagens mais intuitivas para o usuário final.
+
 ## Observações
 
 Este projeto é simples e ideal para iniciantes. Futuramente pode ser expandido para:
